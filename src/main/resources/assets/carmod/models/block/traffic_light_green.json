@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "carmod:block/traffic_light_side",
+    "front": "carmod:block/traffic_light_green",
+    "side": "carmod:block/traffic_light_side"
+  }
+}

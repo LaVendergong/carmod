@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "carmod:road",
+    "minecraft:white_dye"
+  ],
+  "result": {
+    "id": "carmod:white_line",
+    "count": 1
+  }
+}

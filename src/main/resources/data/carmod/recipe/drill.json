@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "P  ",
+    "III",
+    "R R"
+  ],
+  "key": {
+    "P": "minecraft:iron_pickaxe",
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "carmod:drill",
+    "count": 1
+  }
+}

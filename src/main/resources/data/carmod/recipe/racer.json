@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "G  ",
+    "III",
+    "R R"
+  ],
+  "key": {
+    "G": "minecraft:gold_ingot",
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "carmod:racer",
+    "count": 1
+  }
+}

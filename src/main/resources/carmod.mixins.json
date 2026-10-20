@@ -1,0 +1,19 @@
+{
+	"required": true,
+	"package": "com.carmod.mixin",
+	"compatibilityLevel": "JAVA_21",
+	"mixins": [
+		"ContainerSlotMixin",
+		"ItemMaxStackMixin",
+		"ItemMergeMixin",
+		"StackCodecMixin"
+	],
+	"client": [
+		"JetCameraMixin",
+		"JetRiderMixin",
+		"JetRiderStateMixin"
+	],
+	"injectors": {
+		"defaultRequire": 1
+	}
+}

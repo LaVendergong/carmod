@@ -1,0 +1,19 @@
+{
+  "variants": {
+    "facing=north": {
+      "model": "carmod:block/road_paver"
+    },
+    "facing=east": {
+      "model": "carmod:block/road_paver",
+      "y": 90
+    },
+    "facing=south": {
+      "model": "carmod:block/road_paver",
+      "y": 180
+    },
+    "facing=west": {
+      "model": "carmod:block/road_paver",
+      "y": 270
+    }
+  }
+}

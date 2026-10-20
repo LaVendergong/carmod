@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "C  ",
+    "III",
+    "R R"
+  ],
+  "key": {
+    "C": "minecraft:chest",
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "carmod:dump_truck",
+    "count": 1
+  }
+}

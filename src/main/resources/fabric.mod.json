@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "carmod",
+	"version": "${version}",
+	"name": "Car Mod",
+	"description": "Place a car, get in, and drive.",
+	"authors": [
+		"Me!"
+	],
+	"license": "CC0-1.0",
+	"icon": "assets/carmod/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"com.carmod.CarMod"
+		],
+		"client": [
+			"com.carmod.client.CarModClient"
+		]
+	},
+	"mixins": [
+		"carmod.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.5",
+		"minecraft": "~26.2",
+		"java": ">=25",
+		"fabric-api": "*"
+	}
+}

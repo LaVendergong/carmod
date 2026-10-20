@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " C ",
+    "CGC",
+    " C "
+  ],
+  "key": {
+    "C": "minecraft:cobblestone",
+    "G": "minecraft:gravel"
+  },
+  "result": {
+    "id": "carmod:road",
+    "count": 4
+  }
+}

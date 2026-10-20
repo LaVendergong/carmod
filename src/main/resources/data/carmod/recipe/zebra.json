@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "carmod:road",
+    "carmod:white_line"
+  ],
+  "result": {
+    "id": "carmod:zebra",
+    "count": 2
+  }
+}

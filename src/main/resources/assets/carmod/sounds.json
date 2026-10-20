@@ -1,0 +1,55 @@
+{
+  "engine": {
+    "subtitle": "subtitles.carmod.engine",
+    "sounds": [
+      {
+        "name": "carmod:engine"
+      }
+    ]
+  },
+  "ignition": {
+    "subtitle": "subtitles.carmod.ignition",
+    "sounds": [
+      "carmod:ignition"
+    ]
+  },
+  "impact": {
+    "subtitle": "subtitles.carmod.impact",
+    "sounds": [
+      "carmod:impact"
+    ]
+  },
+  "crash": {
+    "subtitle": "subtitles.carmod.crash",
+    "sounds": [
+      "carmod:crash"
+    ]
+  },
+  "rotor": {
+    "subtitle": "subtitles.carmod.rotor",
+    "sounds": [
+      {
+        "name": "carmod:rotor",
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "rotor_start": {
+    "subtitle": "subtitles.carmod.rotor_start",
+    "sounds": [
+      {
+        "name": "carmod:rotor_start",
+        "attenuation_distance": 64
+      }
+    ]
+  },
+  "jet": {
+    "subtitle": "subtitles.carmod.jet",
+    "sounds": [
+      {
+        "name": "carmod:jet",
+        "attenuation_distance": 64
+      }
+    ]
+  }
+}

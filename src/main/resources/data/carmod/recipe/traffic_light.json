@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " R ",
+    " I ",
+    " G "
+  ],
+  "key": {
+    "R": "minecraft:redstone",
+    "I": "minecraft:iron_ingot",
+    "G": "minecraft:green_dye"
+  },
+  "result": {
+    "id": "carmod:traffic_light",
+    "count": 1
+  }
+}

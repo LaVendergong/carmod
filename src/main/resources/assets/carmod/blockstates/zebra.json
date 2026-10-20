@@ -1,0 +1,8 @@
+{
+  "variants": {
+    "facing=north": { "model": "carmod:block/zebra" },
+    "facing=east": { "model": "carmod:block/zebra", "y": 90 },
+    "facing=south": { "model": "carmod:block/zebra", "y": 180 },
+    "facing=west": { "model": "carmod:block/zebra", "y": 270 }
+  }
+}

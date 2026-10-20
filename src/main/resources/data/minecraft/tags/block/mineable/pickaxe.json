@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "carmod:road",
+    "carmod:white_line",
+    "carmod:zebra",
+    "carmod:traffic_light",
+    "carmod:road_paver",
+    "carmod:shield"
+  ]
+}

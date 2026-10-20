@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "facing=north,lamp=red": { "model": "carmod:block/traffic_light_red" },
+    "facing=east,lamp=red": { "model": "carmod:block/traffic_light_red", "y": 90 },
+    "facing=south,lamp=red": { "model": "carmod:block/traffic_light_red", "y": 180 },
+    "facing=west,lamp=red": { "model": "carmod:block/traffic_light_red", "y": 270 },
+    "facing=north,lamp=yellow": { "model": "carmod:block/traffic_light_yellow" },
+    "facing=east,lamp=yellow": { "model": "carmod:block/traffic_light_yellow", "y": 90 },
+    "facing=south,lamp=yellow": { "model": "carmod:block/traffic_light_yellow", "y": 180 },
+    "facing=west,lamp=yellow": { "model": "carmod:block/traffic_light_yellow", "y": 270 },
+    "facing=north,lamp=green": { "model": "carmod:block/traffic_light_green" },
+    "facing=east,lamp=green": { "model": "carmod:block/traffic_light_green", "y": 90 },
+    "facing=south,lamp=green": { "model": "carmod:block/traffic_light_green", "y": 180 },
+    "facing=west,lamp=green": { "model": "carmod:block/traffic_light_green", "y": 270 }
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B  ",
+    "III",
+    "R R"
+  ],
+  "key": {
+    "B": "minecraft:oak_boat",
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "carmod:amphibious",
+    "count": 1
+  }
+}

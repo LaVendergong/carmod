@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "F  ",
+    "III",
+    "R R"
+  ],
+  "key": {
+    "F": "minecraft:feather",
+    "I": "minecraft:iron_ingot",
+    "R": "minecraft:redstone"
+  },
+  "result": {
+    "id": "carmod:helicopter",
+    "count": 1
+  }
+}

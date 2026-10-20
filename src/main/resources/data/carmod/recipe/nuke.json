@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "minecraft:tnt",
+    "minecraft:tnt",
+    "minecraft:tnt",
+    "minecraft:tnt",
+    "minecraft:ender_pearl"
+  ],
+  "result": {
+    "id": "carmod:nuke",
+    "count": 1
+  }
+}

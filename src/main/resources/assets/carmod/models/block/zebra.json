@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/cube",
+  "textures": {
+    "up": "carmod:block/zebra_top",
+    "down": "carmod:block/road",
+    "north": "carmod:block/zebra_top",
+    "south": "carmod:block/zebra_top",
+    "east": "carmod:block/road",
+    "west": "carmod:block/road",
+    "particle": "carmod:block/zebra_top"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    "carmod:helicopter",
+    "minecraft:gunpowder"
+  ],
+  "result": {
+    "id": "carmod:armed_helicopter",
+    "count": 1
+  }
+}
